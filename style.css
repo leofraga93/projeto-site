@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: rgb(224, 223, 157);
+    background-color: rgb(79, 77, 209);
 }
 
 main{
@@ -13,4 +13,23 @@ main{
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.479);
+}
+
+.lado{
+    float: right;
+    margin-left: 10px;
+}
+
+p{
+    text-align: justify;
+}
+
+h1{
+    font-size: larger;
+    color: rgb(22, 24, 160);
+}
+
+h2{
+    font-size: medium;
+    color: rgb(54, 63, 192);
 }
